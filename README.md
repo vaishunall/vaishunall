@@ -10,7 +10,7 @@ I'm a Junior Computer Science Student at the University of Texas at Dallas
   - [![WMWE Website and Member Portal](https://img.shields.io/badge/WMWE_Website_and_Member_Portal-02AEEF)](https://github.com/wmwe/wmwe-website) - In Progress
 - 🍚 **Extracurriculars:**
   - [Association for Computing Machinery (ACM)](https://acmutd.co/)
-  - [Women Mentoring Women in Engineering (WMWE](https://www.linkedin.com/in/wmweatutd/)
+  - [Women Mentoring Women in Engineering (WMWE)](https://www.linkedin.com/in/wmweatutd/)
 
 
 ![](https://komarev.com/ghpvc/?username=vaishunall&color=green)
