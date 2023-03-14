@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Vyshnavi Nalla 👋
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<!--
-**vaishunall/vaishunall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Computer Science Student at the University of Texas at Dallas
 
-Here are some ideas to get you started:
+- 🧠 **Languages:** Java, C++, Javascript, HTML, CSS
+- 💪 **Projects I'm Working On:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [![Personal Website](https://img.shields.io/badge/Personal_Website-ff69b4)](https://github.com/vaishunall/website) - In Progress
+  - [![WMWE Website and Member Portal](https://img.shields.io/badge/WMWE_Website_and_Member_Portal-02AEEF)](https://github.com/wmwe/wmwe-website) - In Progress
+- 🍚 **Extracurriculars:**
+  - [Association for Computing Machinery (ACM)](https://acmutd.co/)
+  - [Women Mentoring Women in Engineering (WMWE](https://www.linkedin.com/in/wmweatutd/)
+
+
+![](https://komarev.com/ghpvc/?username=vaishunall&color=green)
