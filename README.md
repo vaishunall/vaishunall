@@ -1,7 +1,7 @@
 ### Hi, I'm Vyshnavi Nalla 👋
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm a Junior Computer Science Student at the University of Texas at Dallas
+I'm a Senior Computer Science Student at the University of Texas at Dallas
 
 - 🧠 **Languages:** Java, C++, Javascript, HTML, CSS
 - 💪 **Projects I'm Working On:**
