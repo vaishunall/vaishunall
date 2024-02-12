@@ -1,9 +1,9 @@
 ### Hi, I'm Vyshnavi Nalla 👋
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm a Senior Computer Science Student at the University of Texas at Dallas
+I'm a Computer Science New Grad from the University of Texas at Dallas
 
-- 🧠 **Languages:** Java, C++, Javascript, HTML, CSS
+- 🧠 **Languages:** Java, Python, Javascript, HTML, CSS, Swift (SwiftUI & UIKit), C++
 - 💪 **Projects I'm Working On:**
 
   - [![Personal Website](https://img.shields.io/badge/Personal_Website-ff69b4)](https://github.com/vaishunall/vaishunall.github.io) - Now Live!
@@ -11,6 +11,5 @@ I'm a Senior Computer Science Student at the University of Texas at Dallas
 - 🍚 **Extracurriculars:**
   - [Association for Computing Machinery (ACM)](https://acmutd.co/)
   - [Women Mentoring Women in Engineering (WMWE)](https://www.linkedin.com/in/wmweatutd/)
-
 
 ![](https://komarev.com/ghpvc/?username=vaishunall&color=green)
